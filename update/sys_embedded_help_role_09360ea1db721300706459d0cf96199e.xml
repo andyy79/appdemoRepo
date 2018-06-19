@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_10709_appfordemo.app_demo_table_user" name="x_10709_appfordemo.app_demo_table_user">c5360ea1db721300706459d0cf96199c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>andy</sys_created_by>
+        <sys_created_on>2018-06-19 16:54:54</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>09360ea1db721300706459d0cf96199e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c5360ea1db721300706459d0cf96199c</sys_name>
+        <sys_package display_value="appfordemo" source="x_10709_appfordemo">bf0646e1db721300706459d0cf9619fa</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="appfordemo">bf0646e1db721300706459d0cf9619fa</sys_scope>
+        <sys_update_name>sys_embedded_help_role_09360ea1db721300706459d0cf96199e</sys_update_name>
+        <sys_updated_by>andy</sys_updated_by>
+        <sys_updated_on>2018-06-19 16:54:54</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
